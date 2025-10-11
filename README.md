@@ -46,7 +46,7 @@ A complete point-of-sale and inventory management application built with Python 
 
 
 
-The default password is `admin`. Please change it in the Settings tab!
+The default password is `1111`. Please change it in the Settings tab!
 
 
 
@@ -77,5 +77,6 @@ To run the source code yourself:
 &nbsp;   python "retail system.py"
 
 &nbsp;   ```
+
 
 
