@@ -36,7 +36,7 @@ A complete point-of-sale and inventory management application built with Python 
 
 
 
-1\.  Go to the \*\*\[Releases page](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/releases)\*\*.
+1\.  Go to the \*\*\ https://github.com/SSG3800/Retail-POS-System/releases/tag/v1.0.0 \*\*.
 
 2\.  Download the latest `retail-system.zip` file.
 
@@ -77,4 +77,5 @@ To run the source code yourself:
 &nbsp;   python "retail system.py"
 
 &nbsp;   ```
+
 
