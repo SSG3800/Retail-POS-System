@@ -32,28 +32,6 @@ A complete point-of-sale and inventory management application built with Python 
 
 
 
-\## 🚀 How to Run the Software
-
-
-
-1\.  Go to the \*\*\ https://github.com/SSG3800/Retail-POS-System/releases/tag/v1.0.0 \*\*.
-
-2\.  Download the latest `retail-system.zip` file.
-
-3\.  Unzip the folder.
-
-4\.  Run the `retail system.exe` file inside.
-
-
-
-The default password is `1111`. Please change it in the Settings tab!
-
-
-
----
-
-
-
 \## 💻 For Developers
 
 
@@ -77,6 +55,7 @@ To run the source code yourself:
 &nbsp;   python "retail system.py"
 
 &nbsp;   ```
+
 
 
 
