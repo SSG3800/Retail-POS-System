@@ -16,15 +16,15 @@ A complete point-of-sale and inventory management application built with Python 
 
 
 
-\* \*\*Inventory Management\*\*: Add, update, and clear product stock.
+# Inventory Management : Add, update, and clear product stock.
 
-\* \*\*Point of Sale (POS)\*\*: A user-friendly interface for processing sales.
+# Point of Sale (POS) : A user-friendly interface for processing sales.
 
-\* \*\*Sales History\*\*: View details of all past transactions.
+# Sales History : View details of all past transactions.
 
-\* \*\*Data Export\*\*: Export daily sales reports to an Excel spreadsheet.
+# Data Export : Export daily sales reports to an Excel spreadsheet.
 
-\* \*\*Secure\*\*: Critical functions are protected by a user-settable password.
+# Secure : Critical functions are protected by a user-settable password.
 
 
 
